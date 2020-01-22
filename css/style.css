@@ -99,7 +99,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Bebas Neue', cursive;
 	font-size: 36px;
 	color: #fff;
 	font-weight: 700;
@@ -175,6 +175,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
+	/* Header Section photo */
 	background: url(https://scontent.fbkk9-2.fna.fbcdn.net/v/t1.0-9/50442206_362177714621962_8581568030067130368_n.jpg?_nc_cat=109&_nc_oc=AQmq1EhOdwCWohVKvWtEK-SgP4Ec7-Au93g2PVKXL3gg_TI_nEv4dQVRJbirSdVKltI&_nc_ht=scontent.fbkk9-2.fna&oh=ffa9f22b4ce44a795e84eb51f8b2cd06&oe=5E8E74EB) no-repeat center center;
 	background-color: #3b5320;
 	-webkit-background-size: cover;
@@ -186,9 +187,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.4);
 }
 .intro h1 {
-	font-family: 'Dancing Script', cursive;
+font-family: 'Bebas Neue', cursive;
 	color: #fff;
-	font-size: 7em;
+	font-size: 5em;
 	font-weight: 700;
 	margin-top: 0;
 	margin-bottom: 10px;
